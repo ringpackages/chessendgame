@@ -10,8 +10,8 @@
 	
 	    PieSeries {
 	        id: pieSeries
-	        PieSlice { label: "fourteen"; value: 4553 }
-	        PieSlice { label: "Other"; value: 23503 }
+	        PieSlice { label: "eleven"; value: 2854 }
+	        PieSlice { label: "Other"; value: 25202 }
 	    }
 	}
 	
